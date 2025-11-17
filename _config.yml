@@ -23,7 +23,7 @@ repository               : "champion753.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mypic.png"
+  avatar           : "mypic.jpg"
   name             : "Puttipong Malainak"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
