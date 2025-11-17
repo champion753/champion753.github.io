@@ -26,10 +26,10 @@ author:
   avatar           : "mypic.jpg"
   name             : "Puttipong Malainak"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Nonthaburi"
+  bio              : I am Geoscience student, Mahidol University. I have interested in .... and .... 
+  location         : "Bang Bua Thong, Nonthaburi"
   employer         : "Mahidol Unversity"
-  uri              : # URL
+  uri              : https://mahidol.ac.th/th/
   email            : "champ159.c@hotmail.com" 
 
   # Academic websites
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : champion753
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : Puttipong Malainak
   flickr           : # Username
   foursquare       : # Username
