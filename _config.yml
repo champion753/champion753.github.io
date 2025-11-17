@@ -23,7 +23,7 @@ repository               : "champion753.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mypic.png"
   name             : "Puttipong Malainak"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -55,20 +55,20 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : Puttipong Malainak
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : ptp_champion
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : Champ753
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -78,6 +78,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  Line             : champpp5566
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
